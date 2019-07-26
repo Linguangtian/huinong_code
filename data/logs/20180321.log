@@ -1,0 +1,18 @@
+2018-03-21 16:36:07 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_wxapp_general_analysis` WHERE `uniacid` =  :__uniacid AND `type` =  :__type AND `ref_date` =  :__ref_date  LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid' => 3,
+  ':__type' => 2,
+  ':__ref_date' => '20180320',
+)<hr/>SQL Error: <br/>Table 'hejiang.ims_wxapp_general_analysis' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 168; <br />file: /framework/class/db.class.php; line: 228; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /framework/model/wxapp.mod.php; line: 300; <br />file: /web/source/wxapp/version.ctrl.php; line: 94; <br />file: /web/index.php; line: 193; <br />
+
+2018-03-21 16:36:08 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_wxapp_general_analysis` WHERE `uniacid` =  :__uniacid AND `type` =  :__type AND `ref_date` =  :__ref_date  LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid' => 3,
+  ':__type' => '2',
+  ':__ref_date' => '20180320',
+)<hr/>SQL Error: <br/>Table 'hejiang.ims_wxapp_general_analysis' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 168; <br />file: /framework/class/db.class.php; line: 228; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /web/source/wxapp/version.ctrl.php; line: 96; <br />file: /web/index.php; line: 193; <br />
+

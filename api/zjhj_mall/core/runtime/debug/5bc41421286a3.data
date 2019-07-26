@@ -1,0 +1,281 @@
+a:12:{s:6:"config";s:1245:"a:5:{s:10:"phpVersion";s:6:"5.4.45";s:10:"yiiVersion";s:6:"2.0.12";s:11:"application";a:8:{s:3:"yii";s:6:"2.0.12";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"zh-CN";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.4.45";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:4:{s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:51:"C:\wx\addons\zjhj_mall\core\vendor/yiisoft/yii2-gii";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:59:"C:\wx\addons\zjhj_mall\core\vendor/yiisoft/yii2-swiftmailer";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.12.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:53:"C:\wx\addons\zjhj_mall\core\vendor/yiisoft/yii2-debug";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:61:"C:\wx\addons\zjhj_mall\core\vendor/yiisoft/yii2-bootstrap/src";}}}}";s:7:"request";s:6309:"a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:8:{s:10:"connection";s:10:"Keep-Alive";s:4:"host";s:14:"mao.mmzsia.com";s:10:"user-agent";s:65:"MicroMessenger/6.6.7.1321(0x26060739) NetType/WIFI Language/zh_CN";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:7:"referer";s:63:"https://servicewechat.com/wx3b492ad903025816/12/page-frame.html";s:15:"accept-encoding";s:4:"gzip";s:7:"charset";s:5:"utf-8";s:14:"content-length";s:0:"";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:10:"PHP/5.4.45";s:10:"Set-Cookie";a:2:{i:0;s:56:"DBSESSIONID=bs13muc499ebro3kl19rlv2jp0; path=/; HttpOnly";i:1;s:74:"_identity=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; httponly";}s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:31:"application/json; charset=UTF-8";}s:5:"route";s:24:"api/default/comment-list";s:6:"action";s:66:"app\modules\api\controllers\DefaultController::actionCommentList()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:75:{s:15:"ALLUSERSPROFILE";s:14:"C:\ProgramData";s:7:"APPDATA";s:38:"C:\Users\Administrator\AppData\Roaming";s:9:"CLASSPATH";s:87:".;C:\Program Files\Java\jdk1.8.0_92\lib;C:\Program Files\Java\jdk1.8.0_92\lib\tools.jar";s:10:"CLIENTNAME";s:15:"PC-20180502OUAF";s:18:"CommonProgramFiles";s:35:"C:\Program Files (x86)\Common Files";s:23:"CommonProgramFiles(x86)";s:35:"C:\Program Files (x86)\Common Files";s:18:"CommonProgramW6432";s:29:"C:\Program Files\Common Files";s:12:"COMPUTERNAME";s:15:"iZf86ygw2bcak4Z";s:7:"ComSpec";s:27:"C:\Windows\system32\cmd.exe";s:16:"FP_NO_HOST_CHECK";s:2:"NO";s:9:"HOMEDRIVE";s:2:"C:";s:8:"HOMEPATH";s:20:"\Users\Administrator";s:9:"JAVA_HOME";s:33:"C:\Program Files\Java\jdk1.8.0_92";s:12:"LOCALAPPDATA";s:36:"C:\Users\Administrator\AppData\Local";s:11:"LOGONSERVER";s:17:"\\iZf86ygw2bcak4Z";s:20:"NUMBER_OF_PROCESSORS";s:1:"2";s:2:"OS";s:10:"Windows_NT";s:4:"Path";s:825:"C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_92\bin;C:\Program Files\Java\jdk1.8.0_92\jre\bin;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server Migration Assistant for MySQL\bin\;C:\Windows\System32\WindowsPowerShell\v1.0\";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:22:"PROCESSOR_ARCHITECTURE";s:3:"x86";s:22:"PROCESSOR_ARCHITEW6432";s:5:"AMD64";s:20:"PROCESSOR_IDENTIFIER";s:50:"Intel64 Family 6 Model 85 Stepping 4, GenuineIntel";s:15:"PROCESSOR_LEVEL";s:1:"6";s:18:"PROCESSOR_REVISION";s:4:"5504";s:11:"ProgramData";s:14:"C:\ProgramData";s:12:"ProgramFiles";s:22:"C:\Program Files (x86)";s:17:"ProgramFiles(x86)";s:22:"C:\Program Files (x86)";s:12:"ProgramW6432";s:16:"C:\Program Files";s:6:"PROMPT";s:4:"$P$G";s:12:"PSModulePath";s:93:"C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules";s:6:"PUBLIC";s:15:"C:\Users\Public";s:11:"SESSIONNAME";s:9:"RDP-Tcp#0";s:17:"SSMA_M2SS_EP_HOME";s:69:"C:\Microsoft SQL Server Migration Assistant for MySql Extension Pack\";s:11:"SystemDrive";s:2:"C:";s:10:"SystemRoot";s:10:"C:\Windows";s:4:"TEMP";s:38:"C:\Users\ADMINI~1\AppData\Local\Temp\2";s:3:"TMP";s:38:"C:\Users\ADMINI~1\AppData\Local\Temp\2";s:10:"USERDOMAIN";s:15:"iZf86ygw2bcak4Z";s:25:"USERDOMAIN_ROAMINGPROFILE";s:15:"iZf86ygw2bcak4Z";s:8:"USERNAME";s:13:"Administrator";s:11:"USERPROFILE";s:22:"C:\Users\Administrator";s:24:"WEBKIT_IGNORE_SSL_ERRORS";s:1:"1";s:6:"windir";s:10:"C:\Windows";s:21:"windows_tracing_flags";s:1:"3";s:23:"windows_tracing_logfile";s:45:"C:\BVTBin\Tests\installpackage\csilogfile.log";s:15:"HTTP_CONNECTION";s:10:"Keep-Alive";s:9:"HTTP_HOST";s:14:"mao.mmzsia.com";s:15:"HTTP_USER_AGENT";s:65:"MicroMessenger/6.6.7.1321(0x26060739) NetType/WIFI Language/zh_CN";s:17:"HTTP_CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:12:"HTTP_REFERER";s:63:"https://servicewechat.com/wx3b492ad903025816/12/page-frame.html";s:20:"HTTP_ACCEPT_ENCODING";s:4:"gzip";s:12:"HTTP_CHARSET";s:5:"utf-8";s:15:"REDIRECT_STATUS";s:3:"200";s:11:"SERVER_NAME";s:14:"mao.mmzsia.com";s:11:"SERVER_PORT";s:3:"443";s:11:"SERVER_ADDR";s:13:"172.18.47.134";s:11:"REMOTE_PORT";s:5:"29212";s:11:"REMOTE_ADDR";s:13:"120.239.32.82";s:15:"SERVER_SOFTWARE";s:12:"nginx/1.11.5";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:5:"HTTPS";s:2:"on";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:13:"DOCUMENT_ROOT";s:5:"C:/wx";s:12:"DOCUMENT_URI";s:36:"/addons/zjhj_mall/core/web/debug.php";s:11:"REQUEST_URI";s:186:"/addons/zjhj_mall/core/web/debug.php?store_id=1&r=api/default/comment-list&goods_id=50&page=1&access_token=IIjIoUARD87zA1mntxlcoHo0qx5rkvYp&_uniacid=3&_acid=3&_version=2.6.7&_platform=wx";s:11:"SCRIPT_NAME";s:36:"/addons/zjhj_mall/core/web/debug.php";s:14:"CONTENT_LENGTH";s:0:"";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:149:"store_id=1&r=api/default/comment-list&goods_id=50&page=1&access_token=IIjIoUARD87zA1mntxlcoHo0qx5rkvYp&_uniacid=3&_acid=3&_version=2.6.7&_platform=wx";s:15:"SCRIPT_FILENAME";s:41:"C:/wx/addons/zjhj_mall/core/web/debug.php";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:36:"/addons/zjhj_mall/core/web/debug.php";s:18:"REQUEST_TIME_FLOAT";d:1539576865.12062;s:12:"REQUEST_TIME";i:1539576865;}s:3:"GET";a:9:{s:8:"store_id";s:1:"1";s:1:"r";s:24:"api/default/comment-list";s:8:"goods_id";s:2:"50";s:4:"page";s:1:"1";s:12:"access_token";s:32:"IIjIoUARD87zA1mntxlcoHo0qx5rkvYp";s:8:"_uniacid";s:1:"3";s:5:"_acid";s:1:"3";s:8:"_version";s:5:"2.6.7";s:9:"_platform";s:2:"wx";}s:4:"POST";a:0:{}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:4:"__id";i:13;}}";s:3:"log";s:10540:"a:1:{s:8:"messages";a:42:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1539576865.1479621;i:4;a:0:{}i:5;i:1970184;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1539576865.1479621;i:4;a:0:{}i:5;i:1971304;}i:2;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1539576865.164562;i:4;a:0:{}i:5;i:2924936;}i:3;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1539576865.1665151;i:4;a:0:{}i:5;i:3023320;}i:4;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1539576865.1665151;i:4;a:0:{}i:5;i:3056584;}i:6;a:6:{i:0;s:43:"Route requested: 'api/default/comment-list'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1539576865.168468;i:4;a:0:{}i:5;i:3171568;}i:7;a:6:{i:0;s:19:"Loading module: api";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1539576865.168468;i:4;a:0:{}i:5;i:3172712;}i:8;a:6:{i:0;s:63:"Opening DB connection: mysql:host=127.0.0.1;port=3306;dbname=wx";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1539576865.1889751;i:4;a:0:{}i:5;i:4666608;}i:10;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4675872;}i:14;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4678104;}i:17;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.190928;i:4;a:0:{}i:5;i:4698232;}i:20;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1958101;i:4;a:0:{}i:5;i:4745680;}i:23;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.197763;i:4;a:0:{}i:5;i:4780424;}i:26;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1997161;i:4;a:0:{}i:5;i:4792512;}i:29;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2006929;i:4;a:0:{}i:5;i:4793520;}i:32;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='IIjIoUARD87zA1mntxlcoHo0qx5rkvYp'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2085049;i:4;a:0:{}i:5;i:5033944;}i:35;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.209481;i:4;a:0:{}i:5;i:5040984;}i:38;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2124109;i:4;a:0:{}i:5;i:5063776;}i:41;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539576865 AND `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2143641;i:4;a:0:{}i:5;i:5082328;}i:44;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1539576865.2143641;i:4;a:0:{}i:5;i:5082408;}i:45;a:6:{i:0;s:55:"User '13' logged in from 120.239.32.82 with duration 0.";i:1;i:4;i:2;s:19:"yii\web\User::login";i:3;d:1539576865.2143641;i:4;a:0:{}i:5;i:5083664;}i:46;a:6:{i:0;s:38:"Route to run: api/default/comment-list";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1539576865.2153399;i:4;a:0:{}i:5;i:5111832;}i:47;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2221761;i:4;a:0:{}i:5;i:5406528;}i:50;a:6:{i:0;s:82:"Running action: app\modules\api\controllers\DefaultController::actionCommentList()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1539576865.2221761;i:4;a:0:{}i:5;i:5407648;}i:51;a:6:{i:0;s:86:"Failed to set unsafe attribute 'store_id' in 'app\modules\api\models\CommentListForm'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1539576865.2270579;i:4;a:0:{}i:5;i:5723440;}i:52;a:6:{i:0;s:79:"Failed to set unsafe attribute 'r' in 'app\modules\api\models\CommentListForm'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1539576865.2270579;i:4;a:0:{}i:5;i:5724216;}i:53;a:6:{i:0;s:90:"Failed to set unsafe attribute 'access_token' in 'app\modules\api\models\CommentListForm'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1539576865.2270579;i:4;a:0:{}i:5;i:5725024;}i:54;a:6:{i:0;s:86:"Failed to set unsafe attribute '_uniacid' in 'app\modules\api\models\CommentListForm'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1539576865.2270579;i:4;a:0:{}i:5;i:5725816;}i:55;a:6:{i:0;s:83:"Failed to set unsafe attribute '_acid' in 'app\modules\api\models\CommentListForm'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1539576865.2270579;i:4;a:0:{}i:5;i:5726600;}i:56;a:6:{i:0;s:86:"Failed to set unsafe attribute '_version' in 'app\modules\api\models\CommentListForm'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1539576865.2270579;i:4;a:0:{}i:5;i:5727400;}i:57;a:6:{i:0;s:87:"Failed to set unsafe attribute '_platform' in 'app\modules\api\models\CommentListForm'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1539576865.2270579;i:4;a:0:{}i:5;i:5728192;}i:58;a:6:{i:0;s:172:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2290111;i:4;a:0:{}i:5;i:5818592;}i:61;a:6:{i:0;s:382:"SELECT `oc`.`is_virtual`, `oc`.`virtual_user`, `oc`.`virtual_avatar`, `u`.`nickname`, `u`.`avatar_url`, `oc`.`score`, `oc`.`content`, `oc`.`pic_list`, `oc`.`addtime`, `oc`.`reply_content` FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) ORDER BY `oc`.`addtime` DESC LIMIT 20";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2299881;i:4;a:0:{}i:5;i:5859912;}i:64;a:6:{i:0;s:125:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2309639;i:4;a:0:{}i:5;i:5863232;}i:67;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=3)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5866256;}i:70;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=2)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5868576;}i:73;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=1)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5870888;}i:76;a:6:{i:0;s:102:"Access to debugger is denied due to IP address restriction. The requesting IP address is 120.239.32.82";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1539576865.23487;i:4;a:0:{}i:5;i:5942616;}i:77;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.235847;i:4;a:0:{}i:5;i:5699272;}i:80;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.235847;i:4;a:0:{}i:5;i:5702184;}i:83;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2377999;i:4;a:0:{}i:5;i:5708784;}i:86;a:6:{i:0;s:131:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:13;', 'bs13muc499ebro3kl19rlv2jp0', 1539578305)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.239753;i:4;a:0:{}i:5;i:5709944;}}}";s:9:"profiling";s:14321:"a:3:{s:6:"memory";i:5970304;s:4:"time";d:0.10741519927978516;s:8:"messages";a:46:{i:9;a:6:{i:0;s:63:"Opening DB connection: mysql:host=127.0.0.1;port=3306;dbname=wx";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1539576865.1889751;i:4;a:0:{}i:5;i:4667336;}i:11;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4677448;}i:12;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4678192;}i:13;a:6:{i:0;s:63:"Opening DB connection: mysql:host=127.0.0.1;port=3306;dbname=wx";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4677512;}i:15;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4679456;}i:16;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4688664;}i:18;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.190928;i:4;a:0:{}i:5;i:4699400;}i:19;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.193857;i:4;a:0:{}i:5;i:4757128;}i:21;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1958101;i:4;a:0:{}i:5;i:4747920;}i:22;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1967871;i:4;a:0:{}i:5;i:4748880;}i:24;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.197763;i:4;a:0:{}i:5;i:4781608;}i:25;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1997161;i:4;a:0:{}i:5;i:4797728;}i:27;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1997161;i:4;a:0:{}i:5;i:4794768;}i:28;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2006929;i:4;a:0:{}i:5;i:4795728;}i:30;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2006929;i:4;a:0:{}i:5;i:4794672;}i:31;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2006929;i:4;a:0:{}i:5;i:4804288;}i:33;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='IIjIoUARD87zA1mntxlcoHo0qx5rkvYp'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2085049;i:4;a:0:{}i:5;i:5035272;}i:34;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='IIjIoUARD87zA1mntxlcoHo0qx5rkvYp'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.209481;i:4;a:0:{}i:5;i:5041128;}i:36;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.209481;i:4;a:0:{}i:5;i:5042152;}i:37;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2124109;i:4;a:0:{}i:5;i:5079488;}i:39;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2124109;i:4;a:0:{}i:5;i:5066016;}i:40;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.213387;i:4;a:0:{}i:5;i:5066976;}i:42;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539576865 AND `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2143641;i:4;a:0:{}i:5;i:5083440;}i:43;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539576865 AND `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2143641;i:4;a:0:{}i:5;i:5084184;}i:48;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2221761;i:4;a:0:{}i:5;i:5407664;}i:49;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2221761;i:4;a:0:{}i:5;i:5416400;}i:59;a:6:{i:0;s:172:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2290111;i:4;a:0:{}i:5;i:5819760;}i:60;a:6:{i:0;s:172:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2290111;i:4;a:0:{}i:5;i:5820528;}i:62;a:6:{i:0;s:382:"SELECT `oc`.`is_virtual`, `oc`.`virtual_user`, `oc`.`virtual_avatar`, `u`.`nickname`, `u`.`avatar_url`, `oc`.`score`, `oc`.`content`, `oc`.`pic_list`, `oc`.`addtime`, `oc`.`reply_content` FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) ORDER BY `oc`.`addtime` DESC LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2299881;i:4;a:0:{}i:5;i:5861496;}i:63;a:6:{i:0;s:382:"SELECT `oc`.`is_virtual`, `oc`.`virtual_user`, `oc`.`virtual_avatar`, `u`.`nickname`, `u`.`avatar_url`, `oc`.`score`, `oc`.`content`, `oc`.`pic_list`, `oc`.`addtime`, `oc`.`reply_content` FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) ORDER BY `oc`.`addtime` DESC LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2309639;i:4;a:0:{}i:5;i:5862704;}i:65;a:6:{i:0;s:125:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2309639;i:4;a:0:{}i:5;i:5864560;}i:66;a:6:{i:0;s:125:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2309639;i:4;a:0:{}i:5;i:5865328;}i:68;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=3)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5867248;}i:69;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=3)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5868024;}i:71;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=2)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5869568;}i:72;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=2)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5870336;}i:74;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5871880;}i:75;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2329171;i:4;a:0:{}i:5;i:5872648;}i:78;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.235847;i:4;a:0:{}i:5;i:5700504;}i:79;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.235847;i:4;a:0:{}i:5;i:5701248;}i:81;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.235847;i:4;a:0:{}i:5;i:5703352;}i:82;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2377999;i:4;a:0:{}i:5;i:5707944;}i:84;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2377999;i:4;a:0:{}i:5;i:5711024;}i:85;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.238776;i:4;a:0:{}i:5;i:5711984;}i:87;a:6:{i:0;s:131:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:13;', 'bs13muc499ebro3kl19rlv2jp0', 1539578305)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.239753;i:4;a:0:{}i:5;i:5710944;}i:88;a:6:{i:0;s:131:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:13;', 'bs13muc499ebro3kl19rlv2jp0', 1539578305)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.2417059;i:4;a:0:{}i:5;i:5711656;}}}";s:2:"db";s:13908:"a:1:{s:8:"messages";a:44:{i:11;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4677448;}i:12;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4678192;}i:15;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4679456;}i:16;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1899509;i:4;a:0:{}i:5;i:4688664;}i:18;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.190928;i:4;a:0:{}i:5;i:4699400;}i:19;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.193857;i:4;a:0:{}i:5;i:4757128;}i:21;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1958101;i:4;a:0:{}i:5;i:4747920;}i:22;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1967871;i:4;a:0:{}i:5;i:4748880;}i:24;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.197763;i:4;a:0:{}i:5;i:4781608;}i:25;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1997161;i:4;a:0:{}i:5;i:4797728;}i:27;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.1997161;i:4;a:0:{}i:5;i:4794768;}i:28;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2006929;i:4;a:0:{}i:5;i:4795728;}i:30;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2006929;i:4;a:0:{}i:5;i:4794672;}i:31;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2006929;i:4;a:0:{}i:5;i:4804288;}i:33;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='IIjIoUARD87zA1mntxlcoHo0qx5rkvYp'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2085049;i:4;a:0:{}i:5;i:5035272;}i:34;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='IIjIoUARD87zA1mntxlcoHo0qx5rkvYp'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.209481;i:4;a:0:{}i:5;i:5041128;}i:36;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.209481;i:4;a:0:{}i:5;i:5042152;}i:37;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2124109;i:4;a:0:{}i:5;i:5079488;}i:39;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2124109;i:4;a:0:{}i:5;i:5066016;}i:40;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.213387;i:4;a:0:{}i:5;i:5066976;}i:42;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539576865 AND `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2143641;i:4;a:0:{}i:5;i:5083440;}i:43;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539576865 AND `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2143641;i:4;a:0:{}i:5;i:5084184;}i:48;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2221761;i:4;a:0:{}i:5;i:5407664;}i:49;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2221761;i:4;a:0:{}i:5;i:5416400;}i:59;a:6:{i:0;s:172:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2290111;i:4;a:0:{}i:5;i:5819760;}i:60;a:6:{i:0;s:172:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2290111;i:4;a:0:{}i:5;i:5820528;}i:62;a:6:{i:0;s:382:"SELECT `oc`.`is_virtual`, `oc`.`virtual_user`, `oc`.`virtual_avatar`, `u`.`nickname`, `u`.`avatar_url`, `oc`.`score`, `oc`.`content`, `oc`.`pic_list`, `oc`.`addtime`, `oc`.`reply_content` FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) ORDER BY `oc`.`addtime` DESC LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2299881;i:4;a:0:{}i:5;i:5861496;}i:63;a:6:{i:0;s:382:"SELECT `oc`.`is_virtual`, `oc`.`virtual_user`, `oc`.`virtual_avatar`, `u`.`nickname`, `u`.`avatar_url`, `oc`.`score`, `oc`.`content`, `oc`.`pic_list`, `oc`.`addtime`, `oc`.`reply_content` FROM `hjmall_order_comment` `oc` LEFT JOIN `hjmall_user` `u` ON oc.user_id=u.id WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) ORDER BY `oc`.`addtime` DESC LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2309639;i:4;a:0:{}i:5;i:5862704;}i:65;a:6:{i:0;s:125:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2309639;i:4;a:0:{}i:5;i:5864560;}i:66;a:6:{i:0;s:125:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2309639;i:4;a:0:{}i:5;i:5865328;}i:68;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=3)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5867248;}i:69;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=3)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5868024;}i:71;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=2)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5869568;}i:72;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=2)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5870336;}i:74;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.231941;i:4;a:0:{}i:5;i:5871880;}i:75;a:6:{i:0;s:146:"SELECT COUNT(*) FROM `hjmall_order_comment` `oc` WHERE (`oc`.`goods_id`='50') AND (`oc`.`is_delete`=0) AND (`oc`.`is_hide`=0) AND (`oc`.`score`=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2329171;i:4;a:0:{}i:5;i:5872648;}i:78;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.235847;i:4;a:0:{}i:5;i:5700504;}i:79;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='bs13muc499ebro3kl19rlv2jp0'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.235847;i:4;a:0:{}i:5;i:5701248;}i:81;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.235847;i:4;a:0:{}i:5;i:5703352;}i:82;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2377999;i:4;a:0:{}i:5;i:5707944;}i:84;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.2377999;i:4;a:0:{}i:5;i:5711024;}i:85;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539576865.238776;i:4;a:0:{}i:5;i:5711984;}i:87;a:6:{i:0;s:131:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:13;', 'bs13muc499ebro3kl19rlv2jp0', 1539578305)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.239753;i:4;a:0:{}i:5;i:5710944;}i:88;a:6:{i:0;s:131:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:13;', 'bs13muc499ebro3kl19rlv2jp0', 1539578305)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1539576865.2417059;i:4;a:0:{}i:5;i:5711656;}}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:93:"a:3:{s:5:"start";d:1539576865.1372199;s:3:"end";d:1539576865.2446351;s:6:"memory";i:5970304;}";s:4:"user";s:3667:"a:5:{s:2:"id";i:13;s:8:"identity";a:31:{s:2:"id";s:2:"13";s:4:"type";s:1:"1";s:8:"username";s:30:"'oC1y94ifb6jBdt174k1vsz9XWQWM'";s:8:"password";s:62:"'$2y$05$G7pjFcrEeob6rdegjzPvWe2zMmNeWK9PTRMSYUUSHx1LTr8uE0WC6'";s:8:"auth_key";s:34:"'IGPqOBMWKRn9lNz-hbLNYt6y2eJqLX2B'";s:12:"access_token";s:34:"'IIjIoUARD87zA1mntxlcoHo0qx5rkvYp'";s:7:"addtime";s:10:"1534909477";s:9:"is_delete";s:1:"0";s:14:"wechat_open_id";s:30:"'oC1y94ifb6jBdt174k1vsz9XWQWM'";s:15:"wechat_union_id";s:2:"''";s:8:"nickname";s:21:"'美好蕴育 美容'";s:10:"avatar_url";s:130:"'https://wx.qlogo.cn/mmopen/vi_32/3fxFddeCf3dQKR3iac8LbHSMeOiatHDZVts7vukpKwibwkO1yk2iapMLctcL8vg0CTwtzB7ibWJgVeujUXF0ddR3PEQ/132'";s:8:"store_id";s:1:"1";s:14:"is_distributor";s:1:"1";s:9:"parent_id";s:1:"0";s:4:"time";s:10:"1537865238";s:11:"total_price";s:6:"'0.00'";s:5:"price";s:6:"'0.00'";s:8:"is_clerk";s:1:"1";s:7:"we7_uid";s:1:"0";s:7:"shop_id";s:1:"1";s:5:"level";s:2:"-1";s:8:"integral";s:3:"'0'";s:14:"total_integral";s:3:"'0'";s:5:"money";s:6:"'0.00'";s:11:"contact_way";s:4:"null";s:8:"comments";s:4:"null";s:7:"binding";s:4:"null";s:23:"wechat_platform_open_id";s:2:"''";s:8:"platform";s:1:"0";s:9:"blacklist";s:1:"0";}s:10:"attributes";a:31:{i:0;a:2:{s:9:"attribute";s:2:"id";s:5:"label";s:2:"ID";}i:1;a:2:{s:9:"attribute";s:4:"type";s:5:"label";s:43:"用户类型：0=管理员，1=普通用户";}i:2;a:2:{s:9:"attribute";s:8:"username";s:5:"label";s:8:"Username";}i:3;a:2:{s:9:"attribute";s:8:"password";s:5:"label";s:8:"Password";}i:4;a:2:{s:9:"attribute";s:8:"auth_key";s:5:"label";s:8:"Auth Key";}i:5;a:2:{s:9:"attribute";s:12:"access_token";s:5:"label";s:12:"Access Token";}i:6;a:2:{s:9:"attribute";s:7:"addtime";s:5:"label";s:7:"Addtime";}i:7;a:2:{s:9:"attribute";s:9:"is_delete";s:5:"label";s:9:"Is Delete";}i:8;a:2:{s:9:"attribute";s:14:"wechat_open_id";s:5:"label";s:12:"微信openid";}i:9;a:2:{s:9:"attribute";s:15:"wechat_union_id";s:5:"label";s:20:"微信用户union id";}i:10;a:2:{s:9:"attribute";s:8:"nickname";s:5:"label";s:6:"昵称";}i:11;a:2:{s:9:"attribute";s:10:"avatar_url";s:5:"label";s:9:"头像url";}i:12;a:2:{s:9:"attribute";s:8:"store_id";s:5:"label";s:8:"商城id";}i:13;a:2:{s:9:"attribute";s:14:"is_distributor";s:5:"label";s:48:"是否是分销商 0--不是 1--是 2--申请中";}i:14;a:2:{s:9:"attribute";s:9:"parent_id";s:5:"label";s:8:"父级ID";}i:15;a:2:{s:9:"attribute";s:4:"time";s:5:"label";s:24:"成为分销商的时间";}i:16;a:2:{s:9:"attribute";s:11:"total_price";s:5:"label";s:12:"累计佣金";}i:17;a:2:{s:9:"attribute";s:5:"price";s:5:"label";s:15:"可提现佣金";}i:18;a:2:{s:9:"attribute";s:8:"is_clerk";s:5:"label";s:35:"是否是核销员 0--不是 1--是";}i:19;a:2:{s:9:"attribute";s:7:"we7_uid";s:5:"label";s:14:"微擎账户id";}i:20;a:2:{s:9:"attribute";s:7:"shop_id";s:5:"label";s:7:"Shop ID";}i:21;a:2:{s:9:"attribute";s:5:"level";s:5:"label";s:12:"会员等级";}i:22;a:2:{s:9:"attribute";s:8:"integral";s:5:"label";s:18:"用户当前积分";}i:23;a:2:{s:9:"attribute";s:14:"total_integral";s:5:"label";s:15:"用户总积分";}i:24;a:2:{s:9:"attribute";s:5:"money";s:5:"label";s:6:"余额";}i:25;a:2:{s:9:"attribute";s:11:"contact_way";s:5:"label";s:12:"联系方式";}i:26;a:2:{s:9:"attribute";s:8:"comments";s:5:"label";s:6:"备注";}i:27;a:2:{s:9:"attribute";s:7:"binding";s:5:"label";s:15:"授权手机号";}i:28;a:2:{s:9:"attribute";s:23:"wechat_platform_open_id";s:5:"label";s:21:"微信公众号openid";}i:29;a:2:{s:9:"attribute";s:8:"platform";s:5:"label";s:40:"小程序平台 微信:wx，支付宝:my";}i:30;a:2:{s:9:"attribute";s:9:"blacklist";s:5:"label";s:9:"Blacklist";}}s:13:"rolesProvider";N;s:19:"permissionsProvider";N;}";s:6:"router";s:205:"a:1:{s:8:"messages";a:1:{i:5;a:6:{i:0;s:56:"Pretty URL not enabled. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1539576865.168468;i:4;a:0:{}i:5;i:3170040;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5bc41421286a3";s:3:"url";s:208:"https://mao.mmzsia.com/addons/zjhj_mall/core/web/debug.php?store_id=1&r=api/default/comment-list&goods_id=50&page=1&access_token=IIjIoUARD87zA1mntxlcoHo0qx5rkvYp&_uniacid=3&_acid=3&_version=2.6.7&_platform=wx";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:13:"120.239.32.82";s:4:"time";d:1539576865.12062;s:10:"statusCode";i:200;s:8:"sqlCount";i:22;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}

@@ -1,0 +1,1571 @@
+a:12:{s:6:"config";s:1245:"a:5:{s:10:"phpVersion";s:6:"5.4.45";s:10:"yiiVersion";s:6:"2.0.12";s:11:"application";a:8:{s:3:"yii";s:6:"2.0.12";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"zh-CN";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.4.45";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:4:{s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:51:"C:\wx\addons\zjhj_mall\core\vendor/yiisoft/yii2-gii";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:59:"C:\wx\addons\zjhj_mall\core\vendor/yiisoft/yii2-swiftmailer";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.12.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:53:"C:\wx\addons\zjhj_mall\core\vendor/yiisoft/yii2-debug";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:61:"C:\wx\addons\zjhj_mall\core\vendor/yiisoft/yii2-bootstrap/src";}}}}";s:7:"request";s:6540:"a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:8:{s:10:"connection";s:10:"Keep-Alive";s:4:"host";s:14:"mao.mmzsia.com";s:10:"user-agent";s:235:"Mozilla/5.0 (Linux; Android 8.1.0; PACM00 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36 MicroMessenger/6.7.3.1360(0x26070333) NetType/WIFI Language/zh_TW Process/appbrand0";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:7:"referer";s:63:"https://servicewechat.com/wx3b492ad903025816/12/page-frame.html";s:15:"accept-encoding";s:4:"gzip";s:7:"charset";s:5:"utf-8";s:14:"content-length";s:0:"";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:10:"PHP/5.4.45";s:10:"Set-Cookie";a:2:{i:0;s:56:"DBSESSIONID=k7o493eugm2qpnp8dg2vovsjf6; path=/; HttpOnly";i:1;s:74:"_identity=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; httponly";}s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:31:"application/json; charset=UTF-8";}s:5:"route";s:18:"api/share/get-info";s:6:"action";s:60:"app\modules\api\controllers\ShareController::actionGetInfo()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:75:{s:15:"ALLUSERSPROFILE";s:14:"C:\ProgramData";s:7:"APPDATA";s:38:"C:\Users\Administrator\AppData\Roaming";s:9:"CLASSPATH";s:87:".;C:\Program Files\Java\jdk1.8.0_92\lib;C:\Program Files\Java\jdk1.8.0_92\lib\tools.jar";s:10:"CLIENTNAME";s:15:"PC-20180502OUAF";s:18:"CommonProgramFiles";s:35:"C:\Program Files (x86)\Common Files";s:23:"CommonProgramFiles(x86)";s:35:"C:\Program Files (x86)\Common Files";s:18:"CommonProgramW6432";s:29:"C:\Program Files\Common Files";s:12:"COMPUTERNAME";s:15:"iZf86ygw2bcak4Z";s:7:"ComSpec";s:27:"C:\Windows\system32\cmd.exe";s:16:"FP_NO_HOST_CHECK";s:2:"NO";s:9:"HOMEDRIVE";s:2:"C:";s:8:"HOMEPATH";s:20:"\Users\Administrator";s:9:"JAVA_HOME";s:33:"C:\Program Files\Java\jdk1.8.0_92";s:12:"LOCALAPPDATA";s:36:"C:\Users\Administrator\AppData\Local";s:11:"LOGONSERVER";s:17:"\\iZf86ygw2bcak4Z";s:20:"NUMBER_OF_PROCESSORS";s:1:"2";s:2:"OS";s:10:"Windows_NT";s:4:"Path";s:825:"C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_92\bin;C:\Program Files\Java\jdk1.8.0_92\jre\bin;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server Migration Assistant for MySQL\bin\;C:\Windows\System32\WindowsPowerShell\v1.0\";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:22:"PROCESSOR_ARCHITECTURE";s:3:"x86";s:22:"PROCESSOR_ARCHITEW6432";s:5:"AMD64";s:20:"PROCESSOR_IDENTIFIER";s:50:"Intel64 Family 6 Model 85 Stepping 4, GenuineIntel";s:15:"PROCESSOR_LEVEL";s:1:"6";s:18:"PROCESSOR_REVISION";s:4:"5504";s:11:"ProgramData";s:14:"C:\ProgramData";s:12:"ProgramFiles";s:22:"C:\Program Files (x86)";s:17:"ProgramFiles(x86)";s:22:"C:\Program Files (x86)";s:12:"ProgramW6432";s:16:"C:\Program Files";s:6:"PROMPT";s:4:"$P$G";s:12:"PSModulePath";s:93:"C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules";s:6:"PUBLIC";s:15:"C:\Users\Public";s:11:"SESSIONNAME";s:9:"RDP-Tcp#0";s:17:"SSMA_M2SS_EP_HOME";s:69:"C:\Microsoft SQL Server Migration Assistant for MySql Extension Pack\";s:11:"SystemDrive";s:2:"C:";s:10:"SystemRoot";s:10:"C:\Windows";s:4:"TEMP";s:38:"C:\Users\ADMINI~1\AppData\Local\Temp\2";s:3:"TMP";s:38:"C:\Users\ADMINI~1\AppData\Local\Temp\2";s:10:"USERDOMAIN";s:15:"iZf86ygw2bcak4Z";s:25:"USERDOMAIN_ROAMINGPROFILE";s:15:"iZf86ygw2bcak4Z";s:8:"USERNAME";s:13:"Administrator";s:11:"USERPROFILE";s:22:"C:\Users\Administrator";s:24:"WEBKIT_IGNORE_SSL_ERRORS";s:1:"1";s:6:"windir";s:10:"C:\Windows";s:21:"windows_tracing_flags";s:1:"3";s:23:"windows_tracing_logfile";s:45:"C:\BVTBin\Tests\installpackage\csilogfile.log";s:15:"HTTP_CONNECTION";s:10:"Keep-Alive";s:9:"HTTP_HOST";s:14:"mao.mmzsia.com";s:15:"HTTP_USER_AGENT";s:235:"Mozilla/5.0 (Linux; Android 8.1.0; PACM00 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36 MicroMessenger/6.7.3.1360(0x26070333) NetType/WIFI Language/zh_TW Process/appbrand0";s:17:"HTTP_CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:12:"HTTP_REFERER";s:63:"https://servicewechat.com/wx3b492ad903025816/12/page-frame.html";s:20:"HTTP_ACCEPT_ENCODING";s:4:"gzip";s:12:"HTTP_CHARSET";s:5:"utf-8";s:15:"REDIRECT_STATUS";s:3:"200";s:11:"SERVER_NAME";s:14:"mao.mmzsia.com";s:11:"SERVER_PORT";s:3:"443";s:11:"SERVER_ADDR";s:13:"172.18.47.134";s:11:"REMOTE_PORT";s:5:"21760";s:11:"REMOTE_ADDR";s:13:"120.239.32.82";s:15:"SERVER_SOFTWARE";s:12:"nginx/1.11.5";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:5:"HTTPS";s:2:"on";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:13:"DOCUMENT_ROOT";s:5:"C:/wx";s:12:"DOCUMENT_URI";s:36:"/addons/zjhj_mall/core/web/debug.php";s:11:"REQUEST_URI";s:161:"/addons/zjhj_mall/core/web/debug.php?store_id=1&r=api/share/get-info&access_token=wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs&_uniacid=3&_acid=3&_version=2.6.7&_platform=wx";s:11:"SCRIPT_NAME";s:36:"/addons/zjhj_mall/core/web/debug.php";s:14:"CONTENT_LENGTH";s:0:"";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:124:"store_id=1&r=api/share/get-info&access_token=wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs&_uniacid=3&_acid=3&_version=2.6.7&_platform=wx";s:15:"SCRIPT_FILENAME";s:41:"C:/wx/addons/zjhj_mall/core/web/debug.php";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:36:"/addons/zjhj_mall/core/web/debug.php";s:18:"REQUEST_TIME_FLOAT";d:1539577026.090786;s:12:"REQUEST_TIME";i:1539577026;}s:3:"GET";a:7:{s:8:"store_id";s:1:"1";s:1:"r";s:18:"api/share/get-info";s:12:"access_token";s:32:"wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs";s:8:"_uniacid";s:1:"3";s:5:"_acid";s:1:"3";s:8:"_version";s:5:"2.6.7";s:9:"_platform";s:2:"wx";}s:4:"POST";a:0:{}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:4:"__id";i:4;}}";s:3:"log";s:22876:"a:1:{s:8:"messages";a:55:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1539577026.1200809;i:4;a:0:{}i:5;i:1969992;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1539577026.1200809;i:4;a:0:{}i:5;i:1971112;}i:2;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1539577026.1366811;i:4;a:0:{}i:5;i:2924752;}i:3;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1539577026.1376581;i:4;a:0:{}i:5;i:3023136;}i:4;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1539577026.138634;i:4;a:0:{}i:5;i:3056400;}i:6;a:6:{i:0;s:37:"Route requested: 'api/share/get-info'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1539577026.1405871;i:4;a:0:{}i:5;i:3171224;}i:7;a:6:{i:0;s:19:"Loading module: api";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1539577026.1405871;i:4;a:0:{}i:5;i:3172360;}i:8;a:6:{i:0;s:63:"Opening DB connection: mysql:host=127.0.0.1;port=3306;dbname=wx";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1539577026.161094;i:4;a:0:{}i:5;i:4665640;}i:10;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4674904;}i:14;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4677136;}i:17;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1630471;i:4;a:0:{}i:5;i:4697272;}i:20;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1669531;i:4;a:0:{}i:5;i:4744720;}i:23;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1679289;i:4;a:0:{}i:5;i:4779464;}i:26;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1708591;i:4;a:0:{}i:5;i:4791552;}i:29;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1718349;i:4;a:0:{}i:5;i:4792560;}i:32;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1786709;i:4;a:0:{}i:5;i:5032976;}i:35;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.180624;i:4;a:0:{}i:5;i:5039976;}i:38;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1825769;i:4;a:0:{}i:5;i:5062760;}i:41;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539577026 AND `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.18453;i:4;a:0:{}i:5;i:5081328;}i:44;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1539577026.18453;i:4;a:0:{}i:5;i:5081408;}i:45;a:6:{i:0;s:54:"User '4' logged in from 120.239.32.82 with duration 0.";i:1;i:4;i:2;s:19:"yii\web\User::login";i:3;d:1539577026.18453;i:4;a:0:{}i:5;i:5082664;}i:46;a:6:{i:0;s:32:"Route to run: api/share/get-info";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1539577026.1855061;i:4;a:0:{}i:5;i:5110832;}i:47;a:6:{i:0;s:22:"----ORDER BEHAVIOR----";i:1;i:2;i:2;s:11:"application";i:3;d:1539577026.1933179;i:4;a:0:{}i:5;i:5414208;}i:48;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.199177;i:4;a:0:{}i:5;i:5615016;}i:51;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2001541;i:4;a:0:{}i:5;i:5657576;}i:54;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_setting`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2001541;i:4;a:0:{}i:5;i:5663416;}i:57;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_setting' AND kcu.table_name = 'hjmall_setting'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2040601;i:4;a:0:{}i:5;i:5682360;}i:60;a:6:{i:0;s:178:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=0) AND (`store_id`=1) AND (`is_cancel`=0) AND (`is_delete`=0)) AND (`addtime` <= 1539569826) AND (`pay_type` != 2)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.206013;i:4;a:0:{}i:5;i:5790120;}i:63;a:6:{i:0;s:160:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.206989;i:4;a:0:{}i:5;i:5791968;}i:66;a:6:{i:0;s:163:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2089419;i:4;a:0:{}i:5;i:5841720;}i:69;a:6:{i:0;s:386:"SELECT `o`.* FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2108951;i:4;a:0:{}i:5;i:5888792;}i:72;a:6:{i:0;s:409:"SELECT `o`.* FROM `hjmall_ms_order` `o` LEFT JOIN `hjmall_ms_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0) AND (`is_sum`=1)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2148011;i:4;a:0:{}i:5;i:5927352;}i:75;a:6:{i:0;s:393:"SELECT `o`.* FROM `hjmall_pt_order` `o` LEFT JOIN `hjmall_pt_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_price`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2187071;i:4;a:0:{}i:5;i:6016200;}i:78;a:6:{i:0;s:8:"---lu---";i:1;i:2;i:2;s:11:"application";i:3;d:1539577026.221637;i:4;a:0:{}i:5;i:6009000;}i:79;a:6:{i:0;s:163:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=1) AND (`pay_type` IN (1, 3)) AND (`is_sale`=1) AND (`is_transfer`=0) AND (`mch_id` != 0)) LIMIT 50";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.221637;i:4;a:0:{}i:5;i:6016368;}i:82;a:6:{i:0;s:775:"SELECT `u`.*, `uids`.`order_money` FROM `hjmall_user` `u` INNER JOIN (SELECT `uids`.*, (SELECT sum(pay_price) FROM `hjmall_order` WHERE (`is_show`=1) AND ((`store_id`=1) AND (`is_delete`=0)) AND (user_id = uids.user_id) AND ((`is_pay`=1) AND (`is_confirm`=1) AND (`is_send`=1)) AND (`confirm_time` <= 1539577026)) AS `order_money` FROM (SELECT `o`.`user_id` FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id=o.id and r.is_delete = 0 WHERE (`is_show`=1) AND ((`o`.`is_delete`=0) AND (`o`.`store_id`=1) AND (`o`.`is_confirm`=1) AND (`o`.`is_send`=1)) AND (`o`.`confirm_time` <= 1539577026) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`user_id`) `uids`) `uids` ON uids.user_id = u.id WHERE uids.order_money is not null";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.224566;i:4;a:0:{}i:5;i:6029648;}i:85;a:6:{i:0;s:119:"SELECT * FROM `hjmall_level` WHERE (`store_id`=1) AND (`is_delete`=0) AND (`status`=1) ORDER BY `money` DESC, `id` DESC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2567911;i:4;a:0:{}i:5;i:6350120;}i:88;a:6:{i:0;s:196:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND (((`is_pay`=0) AND (`is_cancel`=0) AND (`store_id`=1) AND (`is_delete`=0)) AND (`limit_time` <= 1539577026) AND (`pay_type` != 2)) LIMIT 100";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.258744;i:4;a:0:{}i:5;i:6356256;}i:91;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2597201;i:4;a:0:{}i:5;i:6058136;}i:94;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2606969;i:4;a:0:{}i:5;i:6061520;}i:97;a:6:{i:0;s:54:"User '4' logged in from 120.239.32.82 with duration 0.";i:1;i:4;i:2;s:19:"yii\web\User::login";i:3;d:1539577026.261673;i:4;a:0:{}i:5;i:6061824;}i:98;a:6:{i:0;s:76:"Running action: app\modules\api\controllers\ShareController::actionGetInfo()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1539577026.261673;i:4;a:0:{}i:5;i:6063216;}i:99;a:6:{i:0;s:40:"SELECT * FROM `hjmall_user` WHERE `id`=4";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2646029;i:4;a:0:{}i:5;i:6163952;}i:102;a:6:{i:0;s:86:"SELECT * FROM `hjmall_cash` WHERE (`store_id`=1) AND (`user_id`=4) AND (`is_delete`=0)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.265579;i:4;a:0:{}i:5;i:6211896;}i:105;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2685089;i:4;a:0:{}i:5;i:6335640;}i:108;a:6:{i:0;s:91:"SELECT `id` FROM `hjmall_user` WHERE (`store_id`=1) AND (`parent_id`=4) AND (`is_delete`=0)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.269485;i:4;a:0:{}i:5;i:6342504;}i:111;a:6:{i:0;s:4219:"SELECT al.first_price,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.user_id != 4 AND al.parent_id_1 = 4";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.270462;i:4;a:0:{}i:5;i:6430808;}i:114;a:6:{i:0;s:4208:"SELECT al.rebate,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.rebate > 0 AND al.user_id = 4";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2753439;i:4;a:0:{}i:5;i:6446128;}i:117;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2802269;i:4;a:0:{}i:5;i:6494920;}i:120;a:6:{i:0;s:100:"SELECT * FROM `hjmall_option` WHERE (`name`='share_custom_data') AND (`store_id`=1) AND (`group`='')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.281203;i:4;a:0:{}i:5;i:6545792;}i:123;a:6:{i:0;s:102:"Access to debugger is denied due to IP address restriction. The requesting IP address is 120.239.32.82";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1539577026.284133;i:4;a:0:{}i:5;i:6622224;}i:124;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.285109;i:4;a:0:{}i:5;i:6378848;}i:127;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.285109;i:4;a:0:{}i:5;i:6381760;}i:130;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2870619;i:4;a:0:{}i:5;i:6388360;}i:133;a:6:{i:0;s:130:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:4;', 'k7o493eugm2qpnp8dg2vovsjf6', 1539578466)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.2890151;i:4;a:0:{}i:5;i:6389512;}}}";s:9:"profiling";s:41208:"a:3:{s:6:"memory";i:6722520;s:4:"time";d:0.18162894248962402;s:8:"messages";a:80:{i:9;a:6:{i:0;s:63:"Opening DB connection: mysql:host=127.0.0.1;port=3306;dbname=wx";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1539577026.161094;i:4;a:0:{}i:5;i:4666368;}i:11;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4676480;}i:12;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4677224;}i:13;a:6:{i:0;s:63:"Opening DB connection: mysql:host=127.0.0.1;port=3306;dbname=wx";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4676544;}i:15;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4678488;}i:16;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4687696;}i:18;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1630471;i:4;a:0:{}i:5;i:4698440;}i:19;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.165976;i:4;a:0:{}i:5;i:4756168;}i:21;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1669531;i:4;a:0:{}i:5;i:4746960;}i:22;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1679289;i:4;a:0:{}i:5;i:4747920;}i:24;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1679289;i:4;a:0:{}i:5;i:4780648;}i:25;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1698821;i:4;a:0:{}i:5;i:4796768;}i:27;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1708591;i:4;a:0:{}i:5;i:4793808;}i:28;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1708591;i:4;a:0:{}i:5;i:4794768;}i:30;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1718349;i:4;a:0:{}i:5;i:4793712;}i:31;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1718349;i:4;a:0:{}i:5;i:4803328;}i:33;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1786709;i:4;a:0:{}i:5;i:5034304;}i:34;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.179647;i:4;a:0:{}i:5;i:5040128;}i:36;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.180624;i:4;a:0:{}i:5;i:5041144;}i:37;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1825769;i:4;a:0:{}i:5;i:5078472;}i:39;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1825769;i:4;a:0:{}i:5;i:5065000;}i:40;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.183553;i:4;a:0:{}i:5;i:5065960;}i:42;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539577026 AND `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.18453;i:4;a:0:{}i:5;i:5082440;}i:43;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539577026 AND `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.18453;i:4;a:0:{}i:5;i:5083184;}i:49;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.199177;i:4;a:0:{}i:5;i:5616152;}i:50;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.199177;i:4;a:0:{}i:5;i:5624888;}i:52;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2001541;i:4;a:0:{}i:5;i:5658728;}i:53;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2001541;i:4;a:0:{}i:5;i:5663184;}i:55;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_setting`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2001541;i:4;a:0:{}i:5;i:5664584;}i:56;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_setting`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.203083;i:4;a:0:{}i:5;i:5693944;}i:58;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_setting' AND kcu.table_name = 'hjmall_setting'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2040601;i:4;a:0:{}i:5;i:5684600;}i:59;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_setting' AND kcu.table_name = 'hjmall_setting'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2040601;i:4;a:0:{}i:5;i:5685560;}i:61;a:6:{i:0;s:178:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=0) AND (`store_id`=1) AND (`is_cancel`=0) AND (`is_delete`=0)) AND (`addtime` <= 1539569826) AND (`pay_type` != 2)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.206013;i:4;a:0:{}i:5;i:5790776;}i:62;a:6:{i:0;s:178:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=0) AND (`store_id`=1) AND (`is_cancel`=0) AND (`is_delete`=0)) AND (`addtime` <= 1539569826) AND (`pay_type` != 2)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.206989;i:4;a:0:{}i:5;i:5794184;}i:64;a:6:{i:0;s:160:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.206989;i:4;a:0:{}i:5;i:5792728;}i:65;a:6:{i:0;s:160:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2089419;i:4;a:0:{}i:5;i:5796392;}i:67;a:6:{i:0;s:163:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2089419;i:4;a:0:{}i:5;i:5842472;}i:68;a:6:{i:0;s:163:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.209919;i:4;a:0:{}i:5;i:5845928;}i:70;a:6:{i:0;s:386:"SELECT `o`.* FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2108951;i:4;a:0:{}i:5;i:5889464;}i:71;a:6:{i:0;s:386:"SELECT `o`.* FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.213825;i:4;a:0:{}i:5;i:5892888;}i:73;a:6:{i:0;s:409:"SELECT `o`.* FROM `hjmall_ms_order` `o` LEFT JOIN `hjmall_ms_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0) AND (`is_sum`=1)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2148011;i:4;a:0:{}i:5;i:5927968;}i:74;a:6:{i:0;s:409:"SELECT `o`.* FROM `hjmall_ms_order` `o` LEFT JOIN `hjmall_ms_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0) AND (`is_sum`=1)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.217731;i:4;a:0:{}i:5;i:5931416;}i:76;a:6:{i:0;s:393:"SELECT `o`.* FROM `hjmall_pt_order` `o` LEFT JOIN `hjmall_pt_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_price`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2187071;i:4;a:0:{}i:5;i:6016888;}i:77;a:6:{i:0;s:393:"SELECT `o`.* FROM `hjmall_pt_order` `o` LEFT JOIN `hjmall_pt_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_price`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.221637;i:4;a:0:{}i:5;i:6019664;}i:80;a:6:{i:0;s:163:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=1) AND (`pay_type` IN (1, 3)) AND (`is_sale`=1) AND (`is_transfer`=0) AND (`mch_id` != 0)) LIMIT 50";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.221637;i:4;a:0:{}i:5;i:6017024;}i:81;a:6:{i:0;s:163:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=1) AND (`pay_type` IN (1, 3)) AND (`is_sale`=1) AND (`is_transfer`=0) AND (`mch_id` != 0)) LIMIT 50";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2235899;i:4;a:0:{}i:5;i:6020432;}i:83;a:6:{i:0;s:775:"SELECT `u`.*, `uids`.`order_money` FROM `hjmall_user` `u` INNER JOIN (SELECT `uids`.*, (SELECT sum(pay_price) FROM `hjmall_order` WHERE (`is_show`=1) AND ((`store_id`=1) AND (`is_delete`=0)) AND (user_id = uids.user_id) AND ((`is_pay`=1) AND (`is_confirm`=1) AND (`is_send`=1)) AND (`confirm_time` <= 1539577026)) AS `order_money` FROM (SELECT `o`.`user_id` FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id=o.id and r.is_delete = 0 WHERE (`is_show`=1) AND ((`o`.`is_delete`=0) AND (`o`.`store_id`=1) AND (`o`.`is_confirm`=1) AND (`o`.`is_send`=1)) AND (`o`.`confirm_time` <= 1539577026) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`user_id`) `uids`) `uids` ON uids.user_id = u.id WHERE uids.order_money is not null";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.224566;i:4;a:0:{}i:5;i:6030424;}i:84;a:6:{i:0;s:775:"SELECT `u`.*, `uids`.`order_money` FROM `hjmall_user` `u` INNER JOIN (SELECT `uids`.*, (SELECT sum(pay_price) FROM `hjmall_order` WHERE (`is_show`=1) AND ((`store_id`=1) AND (`is_delete`=0)) AND (user_id = uids.user_id) AND ((`is_pay`=1) AND (`is_confirm`=1) AND (`is_send`=1)) AND (`confirm_time` <= 1539577026)) AS `order_money` FROM (SELECT `o`.`user_id` FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id=o.id and r.is_delete = 0 WHERE (`is_show`=1) AND ((`o`.`is_delete`=0) AND (`o`.`store_id`=1) AND (`o`.`is_confirm`=1) AND (`o`.`is_send`=1)) AND (`o`.`confirm_time` <= 1539577026) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`user_id`) `uids`) `uids` ON uids.user_id = u.id WHERE uids.order_money is not null";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.250932;i:4;a:0:{}i:5;i:6317096;}i:86;a:6:{i:0;s:119:"SELECT * FROM `hjmall_level` WHERE (`store_id`=1) AND (`is_delete`=0) AND (`status`=1) ORDER BY `money` DESC, `id` DESC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2567911;i:4;a:0:{}i:5;i:6351176;}i:87;a:6:{i:0;s:119:"SELECT * FROM `hjmall_level` WHERE (`store_id`=1) AND (`is_delete`=0) AND (`status`=1) ORDER BY `money` DESC, `id` DESC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2567911;i:4;a:0:{}i:5;i:6352528;}i:89;a:6:{i:0;s:196:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND (((`is_pay`=0) AND (`is_cancel`=0) AND (`store_id`=1) AND (`is_delete`=0)) AND (`limit_time` <= 1539577026) AND (`pay_type` != 2)) LIMIT 100";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.258744;i:4;a:0:{}i:5;i:6357016;}i:90;a:6:{i:0;s:196:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND (((`is_pay`=0) AND (`is_cancel`=0) AND (`store_id`=1) AND (`is_delete`=0)) AND (`limit_time` <= 1539577026) AND (`pay_type` != 2)) LIMIT 100";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.258744;i:4;a:0:{}i:5;i:6360496;}i:92;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2597201;i:4;a:0:{}i:5;i:6059272;}i:93;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2606969;i:4;a:0:{}i:5;i:6068008;}i:95;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2606969;i:4;a:0:{}i:5;i:6062720;}i:96;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.261673;i:4;a:0:{}i:5;i:6068536;}i:100;a:6:{i:0;s:40:"SELECT * FROM `hjmall_user` WHERE `id`=4";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2646029;i:4;a:0:{}i:5;i:6165088;}i:101;a:6:{i:0;s:40:"SELECT * FROM `hjmall_user` WHERE `id`=4";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2646029;i:4;a:0:{}i:5;i:6170904;}i:103;a:6:{i:0;s:86:"SELECT * FROM `hjmall_cash` WHERE (`store_id`=1) AND (`user_id`=4) AND (`is_delete`=0)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.265579;i:4;a:0:{}i:5;i:6212872;}i:104;a:6:{i:0;s:86:"SELECT * FROM `hjmall_cash` WHERE (`store_id`=1) AND (`user_id`=4) AND (`is_delete`=0)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.265579;i:4;a:0:{}i:5;i:6214280;}i:106;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2685089;i:4;a:0:{}i:5;i:6336792;}i:107;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2685089;i:4;a:0:{}i:5;i:6341240;}i:109;a:6:{i:0;s:91:"SELECT `id` FROM `hjmall_user` WHERE (`store_id`=1) AND (`parent_id`=4) AND (`is_delete`=0)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.269485;i:4;a:0:{}i:5;i:6343496;}i:110;a:6:{i:0;s:91:"SELECT `id` FROM `hjmall_user` WHERE (`store_id`=1) AND (`parent_id`=4) AND (`is_delete`=0)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.269485;i:4;a:0:{}i:5;i:6344520;}i:112;a:6:{i:0;s:4219:"SELECT al.first_price,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.user_id != 4 AND al.parent_id_1 = 4";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.270462;i:4;a:0:{}i:5;i:6440344;}i:113;a:6:{i:0;s:4219:"SELECT al.first_price,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.user_id != 4 AND al.parent_id_1 = 4";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.274368;i:4;a:0:{}i:5;i:6441608;}i:115;a:6:{i:0;s:4208:"SELECT al.rebate,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.rebate > 0 AND al.user_id = 4";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2753439;i:4;a:0:{}i:5;i:6455648;}i:116;a:6:{i:0;s:4208:"SELECT al.rebate,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.rebate > 0 AND al.user_id = 4";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2782741;i:4;a:0:{}i:5;i:6456488;}i:118;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2802269;i:4;a:0:{}i:5;i:6496056;}i:119;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2802269;i:4;a:0:{}i:5;i:6504800;}i:121;a:6:{i:0;s:100:"SELECT * FROM `hjmall_option` WHERE (`name`='share_custom_data') AND (`store_id`=1) AND (`group`='')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.281203;i:4;a:0:{}i:5;i:6546768;}i:122;a:6:{i:0;s:100:"SELECT * FROM `hjmall_option` WHERE (`name`='share_custom_data') AND (`store_id`=1) AND (`group`='')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.281203;i:4;a:0:{}i:5;i:6547680;}i:125;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.285109;i:4;a:0:{}i:5;i:6380080;}i:126;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.285109;i:4;a:0:{}i:5;i:6380824;}i:128;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.285109;i:4;a:0:{}i:5;i:6382928;}i:129;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2870619;i:4;a:0:{}i:5;i:6387520;}i:131;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2870619;i:4;a:0:{}i:5;i:6390600;}i:132;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.288039;i:4;a:0:{}i:5;i:6391560;}i:134;a:6:{i:0;s:130:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:4;', 'k7o493eugm2qpnp8dg2vovsjf6', 1539578466)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.2890151;i:4;a:0:{}i:5;i:6390496;}i:135;a:6:{i:0;s:130:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:4;', 'k7o493eugm2qpnp8dg2vovsjf6', 1539578466)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.2909679;i:4;a:0:{}i:5;i:6391208;}}}";s:2:"db";s:40798:"a:1:{s:8:"messages";a:78:{i:11;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4676480;}i:12;a:6:{i:0;s:123:"SET SESSION sql_mode = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4677224;}i:15;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4678488;}i:16;a:6:{i:0;s:45:"SELECT * FROM `hjmall_store` WHERE `acid`='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.16207;i:4;a:0:{}i:5;i:4687696;}i:18;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1630471;i:4;a:0:{}i:5;i:4698440;}i:19;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `hjmall_store`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.165976;i:4;a:0:{}i:5;i:4756168;}i:21;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1669531;i:4;a:0:{}i:5;i:4746960;}i:22;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_store' AND kcu.table_name = 'hjmall_store'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1679289;i:4;a:0:{}i:5;i:4747920;}i:24;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1679289;i:4;a:0:{}i:5;i:4780648;}i:25;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `hjmall_wechat_app`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1698821;i:4;a:0:{}i:5;i:4796768;}i:27;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1708591;i:4;a:0:{}i:5;i:4793808;}i:28;a:6:{i:0;s:635:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_wechat_app' AND kcu.table_name = 'hjmall_wechat_app'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1708591;i:4;a:0:{}i:5;i:4794768;}i:30;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1718349;i:4;a:0:{}i:5;i:4793712;}i:31;a:6:{i:0;s:46:"SELECT * FROM `hjmall_wechat_app` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1718349;i:4;a:0:{}i:5;i:4803328;}i:33;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1786709;i:4;a:0:{}i:5;i:5034304;}i:34;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.179647;i:4;a:0:{}i:5;i:5040128;}i:36;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.180624;i:4;a:0:{}i:5;i:5041144;}i:37;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `hjmall_user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1825769;i:4;a:0:{}i:5;i:5078472;}i:39;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.1825769;i:4;a:0:{}i:5;i:5065000;}i:40;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_user' AND kcu.table_name = 'hjmall_user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.183553;i:4;a:0:{}i:5;i:5065960;}i:42;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539577026 AND `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.18453;i:4;a:0:{}i:5;i:5082440;}i:43;a:6:{i:0;s:99:"SELECT `data` FROM `hjmall_session` WHERE `expire`>1539577026 AND `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.18453;i:4;a:0:{}i:5;i:5083184;}i:49;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.199177;i:4;a:0:{}i:5;i:5616152;}i:50;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.199177;i:4;a:0:{}i:5;i:5624888;}i:52;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2001541;i:4;a:0:{}i:5;i:5658728;}i:53;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2001541;i:4;a:0:{}i:5;i:5663184;}i:55;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_setting`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2001541;i:4;a:0:{}i:5;i:5664584;}i:56;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_setting`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.203083;i:4;a:0:{}i:5;i:5693944;}i:58;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_setting' AND kcu.table_name = 'hjmall_setting'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2040601;i:4;a:0:{}i:5;i:5684600;}i:59;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_setting' AND kcu.table_name = 'hjmall_setting'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2040601;i:4;a:0:{}i:5;i:5685560;}i:61;a:6:{i:0;s:178:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=0) AND (`store_id`=1) AND (`is_cancel`=0) AND (`is_delete`=0)) AND (`addtime` <= 1539569826) AND (`pay_type` != 2)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.206013;i:4;a:0:{}i:5;i:5790776;}i:62;a:6:{i:0;s:178:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=0) AND (`store_id`=1) AND (`is_cancel`=0) AND (`is_delete`=0)) AND (`addtime` <= 1539569826) AND (`pay_type` != 2)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.206989;i:4;a:0:{}i:5;i:5794184;}i:64;a:6:{i:0;s:160:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.206989;i:4;a:0:{}i:5;i:5792728;}i:65;a:6:{i:0;s:160:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2089419;i:4;a:0:{}i:5;i:5796392;}i:67;a:6:{i:0;s:163:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2089419;i:4;a:0:{}i:5;i:5842472;}i:68;a:6:{i:0;s:163:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND ((`is_delete`=0) AND (`is_send`=1) AND (`store_id`=1) AND (`is_confirm`=0)) AND (`send_time` <= 1538713026)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.209919;i:4;a:0:{}i:5;i:5845928;}i:70;a:6:{i:0;s:386:"SELECT `o`.* FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2108951;i:4;a:0:{}i:5;i:5889464;}i:71;a:6:{i:0;s:386:"SELECT `o`.* FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.213825;i:4;a:0:{}i:5;i:5892888;}i:73;a:6:{i:0;s:409:"SELECT `o`.* FROM `hjmall_ms_order` `o` LEFT JOIN `hjmall_ms_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0) AND (`is_sum`=1)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2148011;i:4;a:0:{}i:5;i:5927968;}i:74;a:6:{i:0;s:409:"SELECT `o`.* FROM `hjmall_ms_order` `o` LEFT JOIN `hjmall_ms_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_sale`=0) AND (`is_sum`=1)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.217731;i:4;a:0:{}i:5;i:5931416;}i:76;a:6:{i:0;s:393:"SELECT `o`.* FROM `hjmall_pt_order` `o` LEFT JOIN `hjmall_pt_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_price`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2187071;i:4;a:0:{}i:5;i:6016888;}i:77;a:6:{i:0;s:393:"SELECT `o`.* FROM `hjmall_pt_order` `o` LEFT JOIN `hjmall_pt_order_refund` `r` ON r.order_id = o.id and r.is_delete = 0 WHERE (`is_show`=1) AND (((`o`.`is_delete`=0) AND (`o`.`is_send`=1) AND (`o`.`is_confirm`=1) AND (`o`.`store_id`=1) AND (`o`.`is_price`=0)) AND (`o`.`confirm_time` <= 1539577026)) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`id` LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.221637;i:4;a:0:{}i:5;i:6019664;}i:80;a:6:{i:0;s:163:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=1) AND (`pay_type` IN (1, 3)) AND (`is_sale`=1) AND (`is_transfer`=0) AND (`mch_id` != 0)) LIMIT 50";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.221637;i:4;a:0:{}i:5;i:6017024;}i:81;a:6:{i:0;s:163:"SELECT * FROM `hjmall_order` WHERE (`is_show`=1) AND ((`is_pay`=1) AND (`pay_type` IN (1, 3)) AND (`is_sale`=1) AND (`is_transfer`=0) AND (`mch_id` != 0)) LIMIT 50";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2235899;i:4;a:0:{}i:5;i:6020432;}i:83;a:6:{i:0;s:775:"SELECT `u`.*, `uids`.`order_money` FROM `hjmall_user` `u` INNER JOIN (SELECT `uids`.*, (SELECT sum(pay_price) FROM `hjmall_order` WHERE (`is_show`=1) AND ((`store_id`=1) AND (`is_delete`=0)) AND (user_id = uids.user_id) AND ((`is_pay`=1) AND (`is_confirm`=1) AND (`is_send`=1)) AND (`confirm_time` <= 1539577026)) AS `order_money` FROM (SELECT `o`.`user_id` FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id=o.id and r.is_delete = 0 WHERE (`is_show`=1) AND ((`o`.`is_delete`=0) AND (`o`.`store_id`=1) AND (`o`.`is_confirm`=1) AND (`o`.`is_send`=1)) AND (`o`.`confirm_time` <= 1539577026) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`user_id`) `uids`) `uids` ON uids.user_id = u.id WHERE uids.order_money is not null";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.224566;i:4;a:0:{}i:5;i:6030424;}i:84;a:6:{i:0;s:775:"SELECT `u`.*, `uids`.`order_money` FROM `hjmall_user` `u` INNER JOIN (SELECT `uids`.*, (SELECT sum(pay_price) FROM `hjmall_order` WHERE (`is_show`=1) AND ((`store_id`=1) AND (`is_delete`=0)) AND (user_id = uids.user_id) AND ((`is_pay`=1) AND (`is_confirm`=1) AND (`is_send`=1)) AND (`confirm_time` <= 1539577026)) AS `order_money` FROM (SELECT `o`.`user_id` FROM `hjmall_order` `o` LEFT JOIN `hjmall_order_refund` `r` ON r.order_id=o.id and r.is_delete = 0 WHERE (`is_show`=1) AND ((`o`.`is_delete`=0) AND (`o`.`store_id`=1) AND (`o`.`is_confirm`=1) AND (`o`.`is_send`=1)) AND (`o`.`confirm_time` <= 1539577026) AND ((isnull(r.id)) OR (`r`.`type`=2) OR (`r`.`status` IN (2, 3))) GROUP BY `o`.`user_id`) `uids`) `uids` ON uids.user_id = u.id WHERE uids.order_money is not null";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.250932;i:4;a:0:{}i:5;i:6317096;}i:86;a:6:{i:0;s:119:"SELECT * FROM `hjmall_level` WHERE (`store_id`=1) AND (`is_delete`=0) AND (`status`=1) ORDER BY `money` DESC, `id` DESC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2567911;i:4;a:0:{}i:5;i:6351176;}i:87;a:6:{i:0;s:119:"SELECT * FROM `hjmall_level` WHERE (`store_id`=1) AND (`is_delete`=0) AND (`status`=1) ORDER BY `money` DESC, `id` DESC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2567911;i:4;a:0:{}i:5;i:6352528;}i:89;a:6:{i:0;s:196:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND (((`is_pay`=0) AND (`is_cancel`=0) AND (`store_id`=1) AND (`is_delete`=0)) AND (`limit_time` <= 1539577026) AND (`pay_type` != 2)) LIMIT 100";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.258744;i:4;a:0:{}i:5;i:6357016;}i:90;a:6:{i:0;s:196:"SELECT * FROM `hjmall_ms_order` WHERE (`is_show`=1) AND (((`is_pay`=0) AND (`is_cancel`=0) AND (`store_id`=1) AND (`is_delete`=0)) AND (`limit_time` <= 1539577026) AND (`pay_type` != 2)) LIMIT 100";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.258744;i:4;a:0:{}i:5;i:6360496;}i:92;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2597201;i:4;a:0:{}i:5;i:6059272;}i:93;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2606969;i:4;a:0:{}i:5;i:6068008;}i:95;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2606969;i:4;a:0:{}i:5;i:6062720;}i:96;a:6:{i:0;s:83:"SELECT * FROM `hjmall_user` WHERE `access_token`='wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.261673;i:4;a:0:{}i:5;i:6068536;}i:100;a:6:{i:0;s:40:"SELECT * FROM `hjmall_user` WHERE `id`=4";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2646029;i:4;a:0:{}i:5;i:6165088;}i:101;a:6:{i:0;s:40:"SELECT * FROM `hjmall_user` WHERE `id`=4";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2646029;i:4;a:0:{}i:5;i:6170904;}i:103;a:6:{i:0;s:86:"SELECT * FROM `hjmall_cash` WHERE (`store_id`=1) AND (`user_id`=4) AND (`is_delete`=0)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.265579;i:4;a:0:{}i:5;i:6212872;}i:104;a:6:{i:0;s:86:"SELECT * FROM `hjmall_cash` WHERE (`store_id`=1) AND (`user_id`=4) AND (`is_delete`=0)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.265579;i:4;a:0:{}i:5;i:6214280;}i:106;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2685089;i:4;a:0:{}i:5;i:6336792;}i:107;a:6:{i:0;s:49:"SELECT * FROM `hjmall_setting` WHERE `store_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2685089;i:4;a:0:{}i:5;i:6341240;}i:109;a:6:{i:0;s:91:"SELECT `id` FROM `hjmall_user` WHERE (`store_id`=1) AND (`parent_id`=4) AND (`is_delete`=0)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.269485;i:4;a:0:{}i:5;i:6343496;}i:110;a:6:{i:0;s:91:"SELECT `id` FROM `hjmall_user` WHERE (`store_id`=1) AND (`parent_id`=4) AND (`is_delete`=0)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.269485;i:4;a:0:{}i:5;i:6344520;}i:112;a:6:{i:0;s:4219:"SELECT al.first_price,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.user_id != 4 AND al.parent_id_1 = 4";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.270462;i:4;a:0:{}i:5;i:6440344;}i:113;a:6:{i:0;s:4219:"SELECT al.first_price,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.user_id != 4 AND al.parent_id_1 = 4";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.274368;i:4;a:0:{}i:5;i:6441608;}i:115;a:6:{i:0;s:4208:"SELECT al.rebate,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.rebate > 0 AND al.user_id = 4";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2753439;i:4;a:0:{}i:5;i:6455648;}i:116;a:6:{i:0;s:4208:"SELECT al.rebate,al.is_price  FROM (
+        SELECT * FROM ( (
+            SELECT
+                's' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_order`
+            WHERE
+            (`is_cancel` = 0)
+            AND (`is_delete` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+            AND (`mch_id` = 0 OR (`mch_id` > 0 AND `version` >= '2.7.2'))
+        ) UNION (
+            SELECT
+                'ms' AS `order_type`,
+                `id`,
+                `order_no`,
+                `is_pay`,
+                `pay_price`,
+                `is_price`,
+                `user_id`,
+                `apply_delete`,
+                `addtime`,
+                `parent_id` AS `parent_id_1`,
+                `parent_id_1` AS `parent_id_2`,
+                `parent_id_2` AS `parent_id_3`,
+                `first_price`,
+                `second_price`,
+                `third_price`,
+                `rebate`,
+                0 as `mch_id`,
+                `store_id`,
+                `is_recycle`,
+                `is_show`
+            FROM
+                `hjmall_ms_order`
+            WHERE
+                (`is_delete` = 0)
+            AND (`is_sum` = 1)
+            AND (`is_cancel` = 0)
+            AND (`parent_id` > 0 OR `rebate` != 0)
+        ) UNION (
+            SELECT
+                'pt' AS `order_type`,
+                `pt`.`id`,
+                `pt`.`order_no`,
+                `pt`.`is_pay`,
+                `pt`.`pay_price`,
+                `pt`.`is_price`,
+                `pt`.`user_id`,
+                `pt`.`apply_delete`,
+                `pt`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `pt`.`store_id`,
+                `pt`.`is_recycle`,
+                `pt`.`is_show`
+            FROM
+                `hjmall_pt_order` `pt`
+            LEFT JOIN `hjmall_order_share` `os` ON pt.id = os.order_id AND `os`.`type` = 0
+            WHERE
+                (`pt`.`is_delete` = 0)
+            AND (`pt`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) UNION (
+            SELECT
+                'yy' AS `order_type`,
+                `yy`.`id`,
+                `yy`.`order_no`,
+                `yy`.`is_pay`,
+                `yy`.`pay_price`,
+                `yy`.`is_use` is_price,
+                `yy`.`user_id`,
+                `yy`.`apply_delete`,
+                `yy`.addtime,
+                `os`.`parent_id_1`,
+                `os`.`parent_id_2`,
+                `os`.`parent_id_3`,
+                `os`.`first_price`,
+                `os`.`second_price`,
+                `os`.`third_price`,
+                `os`.`rebate`,
+                0 as `mch_id`,
+                `yy`.`store_id`,
+                `yy`.`is_recycle`,
+                `yy`.`is_show`
+            FROM
+                `hjmall_yy_order` `yy`
+            LEFT JOIN `hjmall_order_share` `os` ON os.order_id = yy.id AND `os`.`type` = 1
+            WHERE
+                (`yy`.`is_delete` = 0)
+            AND (`yy`.`is_cancel` = 0)
+            AND (`os`.`parent_id_1` > 0 OR `os`.`rebate` != 0)
+        ) ) AS `l`
+        WHERE
+            `l`.`store_id` = 1
+            AND `l`.`is_show` = 1
+            AND `l`.`is_recycle` = 0
+        ) AS `al`  WHERE al.rebate > 0 AND al.user_id = 4";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2782741;i:4;a:0:{}i:5;i:6456488;}i:118;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2802269;i:4;a:0:{}i:5;i:6496056;}i:119;a:6:{i:0;s:41:"SELECT * FROM `hjmall_store` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2802269;i:4;a:0:{}i:5;i:6504800;}i:121;a:6:{i:0;s:100:"SELECT * FROM `hjmall_option` WHERE (`name`='share_custom_data') AND (`store_id`=1) AND (`group`='')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.281203;i:4;a:0:{}i:5;i:6546768;}i:122;a:6:{i:0;s:100:"SELECT * FROM `hjmall_option` WHERE (`name`='share_custom_data') AND (`store_id`=1) AND (`group`='')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.281203;i:4;a:0:{}i:5;i:6547680;}i:125;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.285109;i:4;a:0:{}i:5;i:6380080;}i:126;a:6:{i:0;s:73:"SELECT `id` FROM `hjmall_session` WHERE `id`='k7o493eugm2qpnp8dg2vovsjf6'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.285109;i:4;a:0:{}i:5;i:6380824;}i:128;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.285109;i:4;a:0:{}i:5;i:6382928;}i:129;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `hjmall_session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2870619;i:4;a:0:{}i:5;i:6387520;}i:131;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.2870619;i:4;a:0:{}i:5;i:6390600;}i:132;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'hjmall_session' AND kcu.table_name = 'hjmall_session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1539577026.288039;i:4;a:0:{}i:5;i:6391560;}i:134;a:6:{i:0;s:130:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:4;', 'k7o493eugm2qpnp8dg2vovsjf6', 1539578466)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.2890151;i:4;a:0:{}i:5;i:6390496;}i:135;a:6:{i:0;s:130:"INSERT INTO `hjmall_session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__id|i:4;', 'k7o493eugm2qpnp8dg2vovsjf6', 1539578466)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1539577026.2909679;i:4;a:0:{}i:5;i:6391208;}}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:91:"a:3:{s:5:"start";d:1539577026.109339;s:3:"end";d:1539577026.291945;s:6:"memory";i:6722520;}";s:4:"user";s:3653:"a:5:{s:2:"id";i:4;s:8:"identity";a:31:{s:2:"id";s:1:"4";s:4:"type";s:1:"1";s:8:"username";s:30:"'oC1y94v2oMBP4ljZPz-2vS9qakDs'";s:8:"password";s:62:"'$2y$05$PTRXR3BkDib1FWGqHGWJc.eM6ql3xAAoJOpzmZdsTZwwdbXvZ.ldO'";s:8:"auth_key";s:34:"'wpNoH4nBXmgcIA9mxc3m_EVEGqKiePvq'";s:12:"access_token";s:34:"'wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs'";s:7:"addtime";s:10:"1534751075";s:9:"is_delete";s:1:"0";s:14:"wechat_open_id";s:30:"'oC1y94v2oMBP4ljZPz-2vS9qakDs'";s:15:"wechat_union_id";s:2:"''";s:8:"nickname";s:8:"'英英'";s:10:"avatar_url";s:129:"'https://wx.qlogo.cn/mmopen/vi_32/q7r30s7FO7bfqcwrEd1IEJjcvS0E6RribBibfFTKWD2oEfOGOjTQdUu4nz75R9BjOsYuoibqk2pCWqDoKcia9yHw9A/132'";s:8:"store_id";s:1:"1";s:14:"is_distributor";s:1:"1";s:9:"parent_id";s:1:"0";s:4:"time";s:10:"1537866192";s:11:"total_price";s:6:"'0.00'";s:5:"price";s:6:"'0.00'";s:8:"is_clerk";s:1:"0";s:7:"we7_uid";s:1:"0";s:7:"shop_id";s:4:"null";s:5:"level";s:2:"-1";s:8:"integral";s:3:"'0'";s:14:"total_integral";s:3:"'0'";s:5:"money";s:6:"'0.00'";s:11:"contact_way";s:4:"null";s:8:"comments";s:4:"null";s:7:"binding";s:4:"null";s:23:"wechat_platform_open_id";s:2:"''";s:8:"platform";s:1:"0";s:9:"blacklist";s:1:"0";}s:10:"attributes";a:31:{i:0;a:2:{s:9:"attribute";s:2:"id";s:5:"label";s:2:"ID";}i:1;a:2:{s:9:"attribute";s:4:"type";s:5:"label";s:43:"用户类型：0=管理员，1=普通用户";}i:2;a:2:{s:9:"attribute";s:8:"username";s:5:"label";s:8:"Username";}i:3;a:2:{s:9:"attribute";s:8:"password";s:5:"label";s:8:"Password";}i:4;a:2:{s:9:"attribute";s:8:"auth_key";s:5:"label";s:8:"Auth Key";}i:5;a:2:{s:9:"attribute";s:12:"access_token";s:5:"label";s:12:"Access Token";}i:6;a:2:{s:9:"attribute";s:7:"addtime";s:5:"label";s:7:"Addtime";}i:7;a:2:{s:9:"attribute";s:9:"is_delete";s:5:"label";s:9:"Is Delete";}i:8;a:2:{s:9:"attribute";s:14:"wechat_open_id";s:5:"label";s:12:"微信openid";}i:9;a:2:{s:9:"attribute";s:15:"wechat_union_id";s:5:"label";s:20:"微信用户union id";}i:10;a:2:{s:9:"attribute";s:8:"nickname";s:5:"label";s:6:"昵称";}i:11;a:2:{s:9:"attribute";s:10:"avatar_url";s:5:"label";s:9:"头像url";}i:12;a:2:{s:9:"attribute";s:8:"store_id";s:5:"label";s:8:"商城id";}i:13;a:2:{s:9:"attribute";s:14:"is_distributor";s:5:"label";s:48:"是否是分销商 0--不是 1--是 2--申请中";}i:14;a:2:{s:9:"attribute";s:9:"parent_id";s:5:"label";s:8:"父级ID";}i:15;a:2:{s:9:"attribute";s:4:"time";s:5:"label";s:24:"成为分销商的时间";}i:16;a:2:{s:9:"attribute";s:11:"total_price";s:5:"label";s:12:"累计佣金";}i:17;a:2:{s:9:"attribute";s:5:"price";s:5:"label";s:15:"可提现佣金";}i:18;a:2:{s:9:"attribute";s:8:"is_clerk";s:5:"label";s:35:"是否是核销员 0--不是 1--是";}i:19;a:2:{s:9:"attribute";s:7:"we7_uid";s:5:"label";s:14:"微擎账户id";}i:20;a:2:{s:9:"attribute";s:7:"shop_id";s:5:"label";s:7:"Shop ID";}i:21;a:2:{s:9:"attribute";s:5:"level";s:5:"label";s:12:"会员等级";}i:22;a:2:{s:9:"attribute";s:8:"integral";s:5:"label";s:18:"用户当前积分";}i:23;a:2:{s:9:"attribute";s:14:"total_integral";s:5:"label";s:15:"用户总积分";}i:24;a:2:{s:9:"attribute";s:5:"money";s:5:"label";s:6:"余额";}i:25;a:2:{s:9:"attribute";s:11:"contact_way";s:5:"label";s:12:"联系方式";}i:26;a:2:{s:9:"attribute";s:8:"comments";s:5:"label";s:6:"备注";}i:27;a:2:{s:9:"attribute";s:7:"binding";s:5:"label";s:15:"授权手机号";}i:28;a:2:{s:9:"attribute";s:23:"wechat_platform_open_id";s:5:"label";s:21:"微信公众号openid";}i:29;a:2:{s:9:"attribute";s:8:"platform";s:5:"label";s:40:"小程序平台 微信:wx，支付宝:my";}i:30;a:2:{s:9:"attribute";s:9:"blacklist";s:5:"label";s:9:"Blacklist";}}s:13:"rolesProvider";N;s:19:"permissionsProvider";N;}";s:6:"router";s:206:"a:1:{s:8:"messages";a:1:{i:5;a:6:{i:0;s:56:"Pretty URL not enabled. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1539577026.1405871;i:4;a:0:{}i:5;i:3169856;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5bc414c2215e9";s:3:"url";s:183:"https://mao.mmzsia.com/addons/zjhj_mall/core/web/debug.php?store_id=1&r=api/share/get-info&access_token=wQ5K37WepdTBFcy0FUAdskWa-Q8ooQDs&_uniacid=3&_acid=3&_version=2.6.7&_platform=wx";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:13:"120.239.32.82";s:4:"time";d:1539577026.090786;s:10:"statusCode";i:200;s:8:"sqlCount";i:39;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}
